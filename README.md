@@ -2,6 +2,8 @@
 
 ## Small Program
 
+![Small Program Screenshot](./images/small_program.png)
+
 - Pindah ke direktori small_program
 
     ```bash
@@ -15,6 +17,8 @@
     ```
 
 ## Jakarta Weather Forecast
+
+![Jakarta Weather Forecast](./images/jakarta_weather_forecast.png)
 
 - Pindah ke direktori jakarta_weather_forecasst
 
